@@ -1,0 +1,3 @@
+npx prettier - check your_jason_file_name
+
+npx prettier - write your_jason_file_name
